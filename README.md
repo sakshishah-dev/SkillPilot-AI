@@ -10,7 +10,7 @@ It is built to be used daily for job preparation (full-stack plus applied AI), a
 | --- | --- |
 | Account (email and password, JWT), invite-only registration | Done |
 | Onboarding: goal, study minutes per weekday, confidence per skill, skill order | Done |
-| Skill catalog: 10 skills, 54 topics (C#, DSA in the order you chose, OOP, SQL, JS, TS, Angular, ASP.NET, Python, GenAI) | Done |
+| Skill catalog: 10 skills, 55 topics (C#, DSA in the order you chose, OOP, SQL, JS, TS, Angular, ASP.NET, Python, GenAI) | Done |
 | Weekly plan that never exceeds your time and never stacks a backlog | Done |
 | Busy (20 min), Minimal (10 min) and Day off modes, with an audit trail of every plan change and its reason | Done |
 | Daily tasks: Learn, Practice, Explain, Revision | Done |
