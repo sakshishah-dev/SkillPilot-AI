@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2B279E17-57A1-4937-B58D-C5EDF10EC7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillPilot.Api", "src\SkillPilot.Api\SkillPilot.Api.csproj", "{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{19A1D5C9-2EEF-4799-935C-8F263372535A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillPilot.Tests", "tests\SkillPilot.Tests\SkillPilot.Tests.csproj", "{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC6F17C6-33D7-4ACD-BA1F-16097A5C0A2A} = {2B279E17-57A1-4937-B58D-C5EDF10EC7CD}
+		{A8B0A9EF-0B2A-4DA9-8940-47F70CC36626} = {19A1D5C9-2EEF-4799-935C-8F263372535A}
+	EndGlobalSection
+EndGlobal
